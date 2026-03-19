@@ -1,16 +1,41 @@
-## Hi there 👋
+# [Your Name]
+**Computer Science Student | Distributed Systems & Cloud-Native Research**
 
-<!--
-**Dany99486/Dany99486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student currently specializing in the architecture of large-scale systems. My focus is on backend engineering, container orchestration, and the challenges of managing workloads in distributed environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus: Federated Kubernetes
+My primary work at the moment is my thesis: **Federated Kubernetes Operator**. 
+* Developed in **Go**.
+* Focused on multi-cluster orchestration and custom controller logic.
+* Investigating how to streamline workload distribution across heterogeneous cloud environments.
+
+---
+
+### Technical Proficiencies
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Infrastructure** | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| **Data & Messaging** | ![Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) |
+| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) REST APIs |
+
+---
+
+### Academic Projects
+* **Distributed Systems Implementation:** Built various distributed protocols and microservices architectures.
+* **Kafka Data Streaming:** Explored real-time data processing and stream topologies.
+* **AWS Automation:** Scripting cloud resource management using Python.
+
+---
+
+### GitHub Statistics
+![Your Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USER]&show_icons=true&theme=nord&hide_border=true&include_all_commits=true)
+
+---
+
+### Contact & Links
+**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+**Email:** [your.email@example.com](mailto:your.email@example.com)
