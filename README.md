@@ -31,8 +31,10 @@ My primary work at the moment is my thesis: **Federated Kubernetes Operator**.
 
 ---
 
-### Contribution Activity
-T[![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dany99486&theme=nord&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Language Distribution
+This chart represents the languages found across my public repositories.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USER]&layout=compact&theme=nord&hide_border=true)
 ---
 
 ### Contact & Links
