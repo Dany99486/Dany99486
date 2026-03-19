@@ -31,9 +31,8 @@ My primary work at the moment is my thesis: **Federated Kubernetes Operator**.
 
 ---
 
-### GitHub Statistics
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Dany99486&show_icons=true&theme=nord&hide_border=true&include_all_commits=true)
-
+### Contribution Activity
+T[![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dany99486&theme=nord&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ### Contact & Links
