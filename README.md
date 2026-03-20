@@ -29,7 +29,7 @@ My primary work at the moment is my thesis: **Federated Kubernetes Operator**.
 * **Observability & Monitoring:** Worked with **Prometheus** for metrics collection and system health monitoring.
 * **Backend Development:** Experience building scalable web services and APIs using **Spring Boot** and **Django**.
 * **Kafka Data Streaming:** Explored real-time data processing and stream topologies.
-* **Serverless Systems:** Repair platform using AWS Step Functions and Rekognition for biometric workflows
+* **Serverless Systems:** Repair platform using **Step Functions** for workflow orchestration and **Rekognition** for biometric login.
 ---
 
 ### Language Distribution
