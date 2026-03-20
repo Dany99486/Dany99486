@@ -29,8 +29,7 @@ My primary work at the moment is my thesis: **Federated Kubernetes Operator**.
 * **Observability & Monitoring:** Worked with **Prometheus** for metrics collection and system health monitoring.
 * **Backend Development:** Experience building scalable web services and APIs using **Spring Boot** and **Django**.
 * **Kafka Data Streaming:** Explored real-time data processing and stream topologies.
-* **AWS Automation:** Scripting cloud resource management using Python.
-
+* **AWS-based Repair Management:** A full-stack platform leveraging **AWS Step Functions** for workflow orchestration and **AWS Rekognition** for biometric facial authentication.
 ---
 
 ### Language Distribution
