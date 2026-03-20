@@ -36,7 +36,7 @@ My primary work at the moment is my thesis: **Federated Kubernetes Operator**.
 ### Language Distribution
 This chart represents the languages found across my public repositories.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dany99486&layout=compact&theme=nord&hide_border=true&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dany99486&layout=compact&theme=nord&hide_border=true)
 
 ---
 
