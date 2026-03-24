@@ -1,5 +1,5 @@
 # Daniel Bravo 
-**Computer Science Student | Distributed Systems & Cloud-Native Research**
+**Software Engineer | MSc Computer Science Student @ UC | Backend & Cloud Engineering**
 
 I am a student currently specializing in the architecture of large-scale systems. My focus is on backend engineering, container orchestration, and the challenges of managing workloads in distributed environments.
 
